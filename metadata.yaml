@@ -1,0 +1,35 @@
+_repo: Eramaan-kultaa_58401
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, Väinö
+    alias: Nyman, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46596'
+    url: http://www.gutenberg.org/2009/agents/46596
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Zane
+    - Gray, Pearl Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: ''
+gutenberg_issued: '2018-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58401'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Erämaan kultaa
+url: http://www.gutenberg.org/ebooks/58401
